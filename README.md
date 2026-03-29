@@ -11,7 +11,7 @@ It is a **complete end-to-end ML system** including:
 * Evaluation metrics
 * FastAPI backend (API)
 * Streamlit frontend (UI)
-* Working Link : https://banking-customer-churn-prediction-n4e8.onrender.com/
+* Working Link : https://customer-churn-prediction-main-4bzm.onrender.com
 ---
 
 ## 🎯 Problem Statement
