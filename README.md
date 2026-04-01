@@ -192,7 +192,7 @@ streamlit run app/ui.py
 
 ## 👨‍💻 Author
 
-**Samar Markande**
+**Maya**
 
 ---
 
